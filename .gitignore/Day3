@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main()
+{
+    int i;
+    printf("\n Enter the number\n");
+    scanf("%d",&i);
+    printf("\n The Number is:%d\n",i);
+}    
